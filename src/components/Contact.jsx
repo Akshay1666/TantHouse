@@ -29,22 +29,22 @@ const Contact = () => {
             <input
               type="text"
               placeholder="Your Name"
-              className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-gray-300 outline-none focus:ring-2 focus:ring-orange-400"
+              className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-gray-300 outline-none focus:ring-2 focus:ring-white-400"
             />
 
             <input
               type="tel"
               placeholder="Phone Number"
-              className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-gray-300 outline-none focus:ring-2 focus:ring-orange-400"
+              className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-gray-300 outline-none focus:ring-2 focus:ring-white-400"
             />
 
             <textarea
               rows="4"
               placeholder="Your Message"
-              className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-gray-300 outline-none focus:ring-2 focus:ring-orange-400"
+              className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-gray-300 outline-none focus:ring-2 focus:ring-white-400"
             />
 
-            <button className="w-full bg-orange-500 hover:bg-orange-600 transition py-3 rounded-lg font-semibold text-lg">
+            <button className="w-full bg-black hover:bg-yellow-500 text-white transition py-3 rounded-lg font-semibold text-lg">
               Book Now
             </button>
 
