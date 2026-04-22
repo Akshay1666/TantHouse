@@ -18,7 +18,7 @@ const About = () => {
       {/* Content */}
       <div>
         <h2 className="text-3xl md:text-4xl font-bold mb-4 text-gray-800">
-          Why Choose Our Tent House?
+          Why Choose Our Swastik Event?
         </h2>
 
         <p className="text-gray-600 mb-6 leading-relaxed">

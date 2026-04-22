@@ -7,7 +7,7 @@ const Footer = () => {
         
         {/* Company Info */}
         <div>
-          <h2 className="text-2xl font-bold mb-2">TentHouse</h2>
+          <h2 className="text-2xl font-bold mb-2">Swastik Event</h2>
           <p className="text-gray-400">
             We provide best tent and event services for weddings, birthdays & more.
           </p>
@@ -51,7 +51,7 @@ const Footer = () => {
 
       {/* Bottom */}
       <div className="text-center mt-6 text-gray-400 text-sm">
-        © 2026 TentHouse. All Rights Reserved.
+        © 2026 Swastik Event. All Rights Reserved.
       </div>
     </footer>
   );

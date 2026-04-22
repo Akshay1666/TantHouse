@@ -9,7 +9,7 @@ const Navbar = () => {
         {/* Logo */}
         <div>
           <h1 className="text-2xl md:text-3xl font-bold text-black tracking-wide">
-            Tent <span className="text-yellow-500">House</span>
+            Swastik <span className="text-yellow-500">Event</span>
           </h1>
           <p className="text-xs text-gray-500">
             Premium Event Decoration Services
